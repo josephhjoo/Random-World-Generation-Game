@@ -4,10 +4,10 @@ A 2D tile-based game built in Java where every world is procedurally generated f
  
 ## Features
  
-- **Procedural generation** — enter any numeric seed and get a unique but fully connected world of rooms and hallways
-- **Spotlight mode** — press `M` to toggle a limited field of view, restricting visibility to a few tiles around your character
-- **Save and load** — press `:Q` mid-game to save your position and world state; press `L` from the main menu to pick up where you left off
-- **Music** — different tracks for the main menu and in-game
+- **Procedural generation** - enter any numeric seed and get a unique but fully connected world of rooms and hallways
+- **Spotlight mode** - press `M` to toggle a limited field of view, restricting visibility to a few tiles around your character
+- **Save and load** - press `:Q` mid-game to save your position and world state; press `L` from the main menu to pick up where you left off
+- **Music** - different tracks for the main menu and in-game
 ## Controls
  
 | Key | Action |
